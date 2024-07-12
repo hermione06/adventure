@@ -1,1 +1,2 @@
 #Codecademy - Excursion project
+------------------------------
