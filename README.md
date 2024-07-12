@@ -1,2 +1,2 @@
-#Codecademy - Excursion project
+Codecademy - Excursion project
 ------------------------------
