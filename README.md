@@ -1,2 +1,3 @@
-Codecademy - Excursion project
-------------------------------
+Excursion project
+-----------
+
